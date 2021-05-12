@@ -1,1 +1,3 @@
-"# Blog" 
+# Blog
+
+Dit is een simpele blog.
